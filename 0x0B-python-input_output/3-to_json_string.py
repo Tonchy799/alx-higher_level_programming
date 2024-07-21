@@ -2,7 +2,6 @@
 """defining to_json_string function"""
 
 
-
 import json
 
 
